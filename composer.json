@@ -1,10 +1,10 @@
 {
-	
     "name": "azdev/ofe",
     "description": "PHP simple FW only FE",
+	
     "require": {
         "php": "^7.2",
-    }
+    },
 
 	"autoload": {
 		"psr-4": {
